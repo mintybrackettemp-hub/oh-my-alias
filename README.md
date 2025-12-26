@@ -1,4 +1,4 @@
-# oh-my-alias
+# oh-my-alias v0.1
 
 Oh My Alias was meant to be a script that adds a bunch of aliases, so you wont have to suffer anymore
 
