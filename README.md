@@ -1,5 +1,7 @@
 # oh-my-alias
 
+Oh My Alias was meant to be a script that adds a bunch of aliases, so you wont have to suffer anymore
+
 ## TOC(Table of contents)
 - [Installation](#installation)
     - [#1 Option](#1-install-automatically)
