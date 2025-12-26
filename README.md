@@ -20,7 +20,7 @@ Firstly, if you are on windows , i highly recomend just using this in WSL and fo
 
 Seriously, clone the repo by using this command:
 ```bash
-git clone [link here]
+git clone https://github.com/mintybrackettemp-hub/oh-my-alias/
 ```
 
 Make sure the Oh my alias directory is specifically at `~/oh-my-alias`, do not delete it, or the installation will fail
